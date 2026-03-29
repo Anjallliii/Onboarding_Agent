@@ -1,0 +1,4 @@
+.env
+my_secret.txt
+venv/
+__pycache__/
