@@ -223,7 +223,7 @@ Trigger the onboarding workflow using the API.
 
 ## 👩‍💻 Contributors
 
-* Anjali Gupta (Auto-Onboard Developer)
+* Anjali Gupta
 
 ---
 
