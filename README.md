@@ -135,8 +135,8 @@ onboarding_agent/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Anjallliii/Onboarding_Agent
-cd onboarding_agent
+git clone https://github.com/Anjallliii/Onboarding_Agent.git
+cd Onboarding_Agent
 ```
 
 ---
